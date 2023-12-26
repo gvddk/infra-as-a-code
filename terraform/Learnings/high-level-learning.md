@@ -15,12 +15,19 @@ For AWS?
 For Azure?
 For GCP?
 
+* Terraform lifecycle
+Terraform init/plan/apply/destory/graph
+
+* Execution flow of terraform resources
+
 ## Topic 2
 
 ### Variables 
 
 Input variables
+
 Output variables
+
 Environment variables
 
 ## Topic 3
